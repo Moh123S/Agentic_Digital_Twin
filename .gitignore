@@ -1,1 +1,7 @@
-.venv
+# Local environment
+venv/
+__pycache__/
+.env
+
+# Data files (Industry standard: don't push large CSVs)
+data/
